@@ -1,0 +1,53 @@
+:root {
+  --very-dark-color: #050505;
+  --dark-color: #280549;
+  --main-color: #a883e4;
+  --light-color: #ffffff;
+  --base-color: #a4be9d;
+  --contrast-color: #f849cc;
+  --contrast-green: #28a745;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 10px;
+  padding: 10px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.5;
+  background-color: var(--very-dark-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+h1{
+  color: var(--contrast-color);
+}
+
+.darkcolor{
+  background-color: var(--dark-color);
+  color: var(--main-color);
+}
+
+.verydarkcolor{
+  background-color: var(--very-dark-color);
+  color: var(--light-color);
+}
+
+.lightcolor{
+  background-color: var(--light-color);
+  color: var(--dark-color);
+}
