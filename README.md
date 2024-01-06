@@ -34,16 +34,3 @@ The Password Generator is a dynamic and secure application that allows users to 
   ![image](https://github.com/designs-by-kate/Password-Generator/assets/146155569/e8f2cc38-0b0f-4881-8b8d-6909c71f0443)
 
   
-
-
-
-
-
-
-
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
----
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
