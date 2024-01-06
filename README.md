@@ -21,6 +21,21 @@ The Password Generator is a dynamic and secure application that allows users to 
 * Once all prompts are answered, the generated password will be displayed on the page.
 * Copy the generated password to the clipboard for easy use in login or registration forms.
 
+  DESKTOP VIEW
+
+  ![image](https://github.com/designs-by-kate/Password-Generator/assets/146155569/70acce6b-f992-4f60-827d-8ee508e9a3a1)
+
+  TABLET VIEW
+
+  ![image](https://github.com/designs-by-kate/Password-Generator/assets/146155569/e76fc678-42c2-4ab4-8a2c-a77d8015ffd7)
+
+  PHONE VIEW
+
+  ![image](https://github.com/designs-by-kate/Password-Generator/assets/146155569/e8f2cc38-0b0f-4881-8b8d-6909c71f0443)
+
+  
+
+
 
 
 
